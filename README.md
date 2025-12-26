@@ -6,4 +6,4 @@ I'm a Computer Science(AI) student working on web-based and AI-powered projects.
 - AI-based Study Tools
 - Student Productivity Applications
 - 👉 Check out my latest project:
-➡️ [StudyComp Project Overview](StudyComp-Overview.md)
+➡️ [StudyComp Project Overview](StudyCompOverview.md)
