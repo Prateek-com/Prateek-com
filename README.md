@@ -15,3 +15,4 @@ Each user has isolated data, secure login, and real-time attendance calculation.
   👉 Check out full project explanation: 📘👉 Check out full project explanation: 📊 [Attendance Tracker Project Overview](Attendancetracker.)
 
 ![image alt](https://github.com/Prateek-com/Prateek-com/blob/88d785039cb7fa3c26b4e2c3727379233c994775/Screenshot%202026-01-01%20100819.png)
+![image alt](lhttps://github.com/Prateek-com/Prateek-com/blob/88af219377a371added8be9095cfbd140bd11d61/Screenshot%202026-01-01%20100830.png)
