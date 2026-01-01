@@ -18,4 +18,4 @@ Each user has isolated data, secure login, and real-time attendance calculation.
 ![image alt](lhttps://github.com/Prateek-com/Prateek-com/blob/88af219377a371added8be9095cfbd140bd11d61/Screenshot%202026-01-01%20100830.png)
 ![image alt](https://github.com/Prateek-com/Prateek-com/blob/2e3a642f5be916d44b1b0e0faef62c421a572bb3/Screenshot%202026-01-01%20101241.png)
 ![image alt](https://github.com/Prateek-com/Prateek-com/blob/cc1a50a8436195075d2b3dc0ecb928bbfa810ef9/Screenshot%202026-01-01%20101250.png)
-![image alt](https://github.com/Prateek-com/Prateek-com/blob/b2ab47238a8d43664aa907714ed6a88521b3041e/Screenshot%202026-01-01%20101518.png)
+![image alt](https://github.com/Prateek-com/Prateek-com/blob/8d5e7567ae27f8135c80795892fb46dafb0fba4f/Screenshot%202026-01-01%20101426.png)
