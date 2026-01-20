@@ -19,3 +19,4 @@ Each user has isolated data, secure login, and real-time attendance calculation.
 ![image alt](https://github.com/Prateek-com/Prateek-com/blob/2e3a642f5be916d44b1b0e0faef62c421a572bb3/Screenshot%202026-01-01%20101241.png)
 ![image alt](https://github.com/Prateek-com/Prateek-com/blob/cc1a50a8436195075d2b3dc0ecb928bbfa810ef9/Screenshot%202026-01-01%20101250.png)
 ![image alt](https://github.com/Prateek-com/Prateek-com/blob/8d5e7567ae27f8135c80795892fb46dafb0fba4f/Screenshot%202026-01-01%20101426.png)
+- 📅 20 Jan: Practiced backend debugging
