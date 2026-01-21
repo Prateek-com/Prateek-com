@@ -27,4 +27,18 @@ Each user has isolated data, secure login, and real-time attendance calculation.
 - 🌱 Staying consistent with GitHub commits
 
 - docs: add initial README structure
-- working on new project. 
+- working on new project.
+
+- ## Project Overview
+This project is a full-stack web application built to manage user data efficiently.
+
+## Tech Stack
+- Frontend: Vite + React
+- Backend: FastAPI
+- Database: MongoDB
+
+## Run Locally
+1. Clone the repo
+2. Install dependencies
+3. Start frontend & backend
+
