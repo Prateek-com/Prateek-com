@@ -25,3 +25,6 @@ Each user has isolated data, secure login, and real-time attendance calculation.
 - 📅 20 Jan 2026  
 - 💻 Practiced backend concepts (FastAPI & API debugging)  
 - 🌱 Staying consistent with GitHub commits
+
+- docs: add initial README structure
+- working on new project. 
