@@ -53,3 +53,9 @@ This project is a full-stack web application built to manage user data efficient
 - Focus on solving a practical problem using backend-driven architecture
 - Shortlisted ideas related to automation and productivity tools
 
+## 🔄 Initial Working Flow (Draft)
+
+1. Identify user problem and core requirements  
+2. Design basic workflow and user interactions  
+3. Plan backend APIs and data flow  
+4. Decide tech stack and implementation steps
