@@ -47,3 +47,9 @@ This project is a full-stack web application built to manage user data efficient
 - 🚀 Worked on backend understanding (FastAPI basics)
 - Minor profile README improvement
 
+## 💡 Project Idea Exploration
+
+- Exploring ideas for a new real-world project
+- Focus on solving a practical problem using backend-driven architecture
+- Shortlisted ideas related to automation and productivity tools
+
