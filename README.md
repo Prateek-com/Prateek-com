@@ -45,4 +45,5 @@ This project is a full-stack web application built to manage user data efficient
 
 - 🔧 Revised Git & GitHub workflow (branches, commits, push)
 - 🚀 Worked on backend understanding (FastAPI basics)
+- Minor profile README improvement
 
