@@ -41,4 +41,8 @@ This project is a full-stack web application built to manage user data efficient
 1. Clone the repo
 2. Install dependencies
 3. Start frontend & backend
+## 📅 Daily Progress – 22 Jan 2026
+
+- 🔧 Revised Git & GitHub workflow (branches, commits, push)
+- 🚀 Worked on backend understanding (FastAPI basics)
 
