@@ -65,3 +65,8 @@ This project is a full-stack web application built to manage user data efficient
 - Goal: Help users manage tasks and daily progress efficiently
 - Emphasis on clean backend logic and simple UI
 
+## ❓ Problem Statement
+
+- Many users struggle to track daily tasks consistently
+- Existing tools are either too complex or lack flexibility
+- This project aims to provide a simple and effective solution
