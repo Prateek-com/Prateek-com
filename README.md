@@ -59,3 +59,9 @@ This project is a full-stack web application built to manage user data efficient
 2. Design basic workflow and user interactions  
 3. Plan backend APIs and data flow  
 4. Decide tech stack and implementation steps
+## 💡 New Project Idea (Locked)
+
+- Planning a productivity-focused web application
+- Goal: Help users manage tasks and daily progress efficiently
+- Emphasis on clean backend logic and simple UI
+
