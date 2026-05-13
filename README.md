@@ -1,73 +1,24 @@
-# 👋 Hi, I'm Prateek Chaudhary
-I'm a Computer Science(AI) student working on web-based and AI-powered projects.
-🚧 Currently building **StudyComp** – a smart AI study companion for college students.
-📌 Focus Areas:
-- Web Development
-- AI-based Study Tools
-- Student Productivity Applications
-- 👉 Check out my latest project:
-➡️ [StudyComp Project Overview](StudyCompOverview.md)
-LINK - https://college-attendance-tracker-production-19.onrender.com/
-PORTFOLIO LINK- https://my-portfolio-kappa-blue-73.vercel.app/
-#College Attendance Tracker
-College Attendance Tracker is a web application that allows students to
-manage subject-wise attendance using a dashboard and calendar-based system.
-Each user has isolated data, secure login, and real-time attendance calculation.
-  👉 Check out full project explanation: 📘👉 Check out full project explanation: 📊 [Attendance Tracker Project Overview](Attendancetracker.)
-    💫 college attendance photos.
-![image alt](https://github.com/Prateek-com/Prateek-com/blob/88d785039cb7fa3c26b4e2c3727379233c994775/Screenshot%202026-01-01%20100819.png)
-![image alt](lhttps://github.com/Prateek-com/Prateek-com/blob/88af219377a371added8be9095cfbd140bd11d61/Screenshot%202026-01-01%20100830.png)
-![image alt](https://github.com/Prateek-com/Prateek-com/blob/2e3a642f5be916d44b1b0e0faef62c421a572bb3/Screenshot%202026-01-01%20101241.png)
-![image alt](https://github.com/Prateek-com/Prateek-com/blob/cc1a50a8436195075d2b3dc0ecb928bbfa810ef9/Screenshot%202026-01-01%20101250.png)
-![image alt](https://github.com/Prateek-com/Prateek-com/blob/8d5e7567ae27f8135c80795892fb46dafb0fba4f/Screenshot%202026-01-01%20101426.png)
-- 📅 20 Jan: Practiced backend debugging
-## 📌 Daily Update
+# 💫 About Me:
+I'm a Computer Science(AI) student working on web-based and AI-powered projects. 🚧 Currently building StudyComp  a smart AI study companion for college students
 
-- 📅 20 Jan 2026  
-- 💻 Practiced backend concepts (FastAPI & API debugging)  
-- 🌱 Staying consistent with GitHub commits
 
-- docs: add initial README structure
-- working on new project.
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/TMnB6aRX) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prateek-chaudhary-new2026/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBauFVcsNQ72M1fYYzaHhcQ%3D%3D) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/u/FixCreepy2081/s/JnhP4ttgkK) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prateek9q9q@gmail.com) 
 
-- ## Project Overview
-This project is a full-stack web application built to manage user data efficiently.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Prateek-com&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Prateek-com&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Prateek-com&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## Tech Stack
-- Frontend: Vite + React
-- Backend: FastAPI
-- Database: MongoDB
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## Run Locally
-1. Clone the repo
-2. Install dependencies
-3. Start frontend & backend
-## 📅 Daily Progress – 22 Jan 2026
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Prateek-com&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- 🔧 Revised Git & GitHub workflow (branches, commits, push)
-- 🚀 Worked on backend understanding (FastAPI basics)
-- Minor profile README improvement
+---
+[![](https://komarev.com/ghpvc/?username=Prateek-com&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 💡 Project Idea Exploration
-
-- Exploring ideas for a new real-world project
-- Focus on solving a practical problem using backend-driven architecture
-- Shortlisted ideas related to automation and productivity tools
-
-## 🔄 Initial Working Flow (Draft)
-
-1. Identify user problem and core requirements  
-2. Design basic workflow and user interactions  
-3. Plan backend APIs and data flow  
-4. Decide tech stack and implementation steps
-## 💡 New Project Idea (Locked)
-
-- Planning a productivity-focused web application
-- Goal: Help users manage tasks and daily progress efficiently
-- Emphasis on clean backend logic and simple UI
-
-## ❓ Problem Statement
-
-- Many users struggle to track daily tasks consistently
-- Existing tools are either too complex or lack flexibility
-- This project aims to provide a simple and effective solution
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
